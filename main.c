@@ -1,3 +1,3 @@
 void hello() {
-    printf("Hi\n");
+    printf("Hello\n");
 }
